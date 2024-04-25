@@ -1,4 +1,5 @@
-from alphabets import alphabet
+#from alphabets import alphabet
+alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 
 direction = input("Type encode for enyrypt the message or type decrypt to decode the message \n")
 text=input("enter the message \n").lower()
